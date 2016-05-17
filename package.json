@@ -41,12 +41,12 @@
     "material-colors": "^1.0.0",
     "merge": "^1.2.0",
     "react-addons-shallow-compare": "^15.0.0",
-    "reactcss": "^0.4.3",
-    "tinycolor2": "^1.1.2"
+    "reactcss": "^0.4.5",
+    "tinycolor2": "^1.1.2",
+    "react": "^15.0.0 || ^0.14.0",
+    "react-dom": "^15.0.0 || ^0.14.0"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.8.0",
